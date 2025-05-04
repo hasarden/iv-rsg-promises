@@ -1,6 +1,6 @@
 {
   "name": "com.iv.rsg.promises",
-  "description": "Lightweight promises library derived from RSG.Promises",
+  "description": "Lightweight promises library based on RSG.Promises",
   "version": "0.0.1",
   "unity": "2021.3",
   "displayName": "IV.RSG.Promises",

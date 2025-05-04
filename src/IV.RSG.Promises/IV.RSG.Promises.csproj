@@ -4,6 +4,15 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <LangVersion>9</LangVersion>
         <Nullable>disable</Nullable>
+        <PackageId>IV.RSG.Promises</PackageId>
+        <Version>0.0.1</Version>
+        <Authors>hasarden</Authors>
+        <Company>IronVerde</Company>
+        <PackageDescription>Lightweight promises library based on RSG.Promises</PackageDescription>
+        <RepositoryUrl>https://github.com/hasarden/iv-rsg-promises</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/hasarden/iv-rsg-promises</PackageProjectUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>

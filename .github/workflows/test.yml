@@ -1,4 +1,4 @@
-name: Run C# Tests
+name: Tests
 
 on:
   push:
