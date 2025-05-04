@@ -1,0 +1,13 @@
+{
+  "name": "com.iv.rsg.promises",
+  "version": "0.0.1",
+  "displayName": "IV.RSG.Promises",
+  "description": "Lightweight promises library derived from RSG.Promises",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/hasarden/iv-rsg-promises",
+  "licensesUrl": "https://github.com/hasarden/iv-rsg-promises",
+  "author": {
+    "name": "hasarden",
+    "email": "has.arden@gmail.com"
+  }
+}
